@@ -1,2 +1,2 @@
-*~
-.*.sw?
+.vscode
+node_modules
